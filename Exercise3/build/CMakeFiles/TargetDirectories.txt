@@ -1,0 +1,4 @@
+/home/felice/software/geant4/geant4-v11.2.2/G4exercise/Exercise3/build/CMakeFiles/ex1.dir
+/home/felice/software/geant4/geant4-v11.2.2/G4exercise/Exercise3/build/CMakeFiles/Exercise.dir
+/home/felice/software/geant4/geant4-v11.2.2/G4exercise/Exercise3/build/CMakeFiles/edit_cache.dir
+/home/felice/software/geant4/geant4-v11.2.2/G4exercise/Exercise3/build/CMakeFiles/rebuild_cache.dir
